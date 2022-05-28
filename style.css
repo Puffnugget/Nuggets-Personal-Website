@@ -1,0 +1,35 @@
+#mainBody {
+    text-align: center;
+    background-color: khaki;
+}
+
+.button {
+    width: 150px;
+    background-color:burlywood;
+    border-radius: 50px;
+    font-family: cursive;
+}
+
+#mainH1 {
+    font-family: cursive;
+}
+
+.otherBodies{
+    text-align: center;
+    background-color: khaki;
+}
+
+.pTags {
+    padding-left: 400px;
+    width: 400px;
+}
+
+.form-control {
+    width: 210px;
+}
+
+#Puff {
+    border-width: 50px;
+    border-color: burlywood;
+    border-radius: 100px;
+}
